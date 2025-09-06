@@ -25,7 +25,7 @@ A **simple and responsive landing page** for showcasing your Discord bot. Built 
    ```
 2. Open `index.html` in your browser.
 3. Customize text, colors, and links as needed.
-
+For support join [Here](https://discord.gg/KMaVP2xupg)
 
 👉 Perfect for **Discord bot developers** who want a quick, professional landing page without complex frameworks.
 
