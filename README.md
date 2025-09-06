@@ -1,5 +1,3 @@
----
-
 # 🚀 Discord Bot Landing Page
 
 A **simple and responsive landing page** for showcasing your Discord bot. Built using **HTML, CSS, and JavaScript**, this page is lightweight and easy to customize.
@@ -28,8 +26,6 @@ A **simple and responsive landing page** for showcasing your Discord bot. Built 
 2. Open `index.html` in your browser.
 3. Customize text, colors, and links as needed.
 
----
 
 👉 Perfect for **Discord bot developers** who want a quick, professional landing page without complex frameworks.
 
----
